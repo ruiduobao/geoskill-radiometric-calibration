@@ -16,19 +16,19 @@
       "band_index": 1,
       "band_name": "green",
       "esun": 1820.0,
-      "mean_value": 0.10427785664796829
+      "mean_value": 0.10427786409854889
     },
     {
       "band_index": 2,
       "band_name": "red",
       "esun": 1550.0,
-      "mean_value": 0.1038755550980568
+      "mean_value": 0.10387556254863739
     },
     {
       "band_index": 3,
       "band_name": "re1",
       "esun": 1430.0,
-      "mean_value": 0.16481773555278778
+      "mean_value": 0.16481775045394897
     },
     {
       "band_index": 4,

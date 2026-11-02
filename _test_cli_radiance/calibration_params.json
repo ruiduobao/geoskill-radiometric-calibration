@@ -10,7 +10,7 @@
       "band_index": 0,
       "band_name": "blue",
       "esun": 1970.0,
-      "mean_value": 36.04994583129883
+      "mean_value": 36.049949645996094
     },
     {
       "band_index": 1,
@@ -28,19 +28,19 @@
       "band_index": 3,
       "band_name": "nir",
       "esun": 951.0,
-      "mean_value": 43.208106994628906
+      "mean_value": 43.20811080932617
     },
     {
       "band_index": 4,
       "band_name": "swir1",
       "esun": 245.0,
-      "mean_value": 21.22991371154785
+      "mean_value": 21.229915618896484
     },
     {
       "band_index": 5,
       "band_name": "swir2",
       "esun": 79.0,
-      "mean_value": 4.822991371154785
+      "mean_value": 4.822991847991943
     }
   ]
 }
